@@ -12,6 +12,6 @@ Jhennefer Monique Ferreira Santos
 
 Jousiclecia Almeida dos Santos
 
-Maria Clara de Sa Pinheiro
+Maria Camila de Sa Pinheiro
 
 Christian Lucas da Silva Oliveira 
