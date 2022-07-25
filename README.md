@@ -6,3 +6,6 @@ dados sobre os Pets
   A equipe que irá realizar este repositorio é composta por:
 
    Christian Lucas
+
+Orientador
+- Daniel Fireman
