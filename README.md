@@ -7,6 +7,7 @@ A pedido do cliente, esta deverá conter quatro comandos essenciais: adição, s
 diferentes e agrupados em um milestone "Sprint 1", que representa o primeiro passo do projeto.
 
 Socorro Deus!!
+bjvhfdjg
 Estão participando do desenvolvimento do mesmo os alunos:
 
 Jhennefer Monique Ferreira Santos 
