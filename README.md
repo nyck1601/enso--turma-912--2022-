@@ -1,20 +1,10 @@
-# enso--turma-912--2022-
+# ENSO Turma 912 2022
 
-O objetivo deste repósitório é organizar as etapas do projeto "calculadora", que tem por objetivo desenvolver uma calculadora que realize as quatro 
-operações aritméticas básicas.
+ O objetivo deste repósitório é criar e organizar, a pedido do Pet Shop Maravilha, um aplicativo cujo qual o objetivo é analisar
+dados sobre os Pets
 
-A pedido do cliente, esta deverá conter quatro comandos essenciais: adição, subtração, divisão e multiplicação. Estes comandos estão organizados em 4 issues
-diferentes e agrupados em um milestone "Sprint 1", que representa o primeiro passo do projeto.
+  A empresa solicitou que fossem guardados os nomes, pessos, genero, raça, vacinação e tipos de raçãoes.
 
-Socorro Deus!!
-Estão participando do desenvolvimento do mesmo os alunos:
+  A equipe que irá realizar este repositorio é composta por:
 
-Jhennefer Monique Ferreira Santos 
-
-Jousiclecia Almeida dos Santos
-
-Maria Camila de Sa Pinheiro
-
-Christian Lucas da Silva Oliveira 
-
-
+   Christian Lucas
