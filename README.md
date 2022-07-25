@@ -6,6 +6,7 @@ operações aritméticas básicas.
 A pedido do cliente, esta deverá conter quatro comandos essenciais: adição, subtração, divisão e multiplicação. Estes comandos estão organizados em 4 issues
 diferentes e agrupados em um milestone "Sprint 1", que representa o primeiro passo do projeto.
 
+Socorro Deus!!
 Estão participando do desenvolvimento do mesmo os alunos:
 
 Jhennefer Monique Ferreira Santos 
@@ -15,3 +16,5 @@ Jousiclecia Almeida dos Santos
 Maria Camila de Sa Pinheiro
 
 Christian Lucas da Silva Oliveira 
+
+
