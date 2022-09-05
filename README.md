@@ -8,6 +8,7 @@ Desenvolvedores:
    - Camila Pinheiro
    - Christian Lucas
    - Jennifer Monique
+   - Jousiclecia Almeida
    
 Orientador
 - Daniel Fireman
