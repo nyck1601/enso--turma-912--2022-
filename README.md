@@ -1,13 +1,13 @@
 # ENSO Turma 912 2022
 
-O objetivo deste repósitório é criar e organizar, a pedido do cliente, um aplicativo cujo qual o objetivo é analisar
-dados sobre funcionalidades de uma calculadora.
+O objetivo deste repositório é organizar as etapas relacionadas a criação de um software o qual denominamos "calculadora", cujo objetivo é conter as funcionalidades básicas da mesma(adição, subtração, multiplicação e divisão).
 
 Desenvolvedores: 
 
-   - Camila Pinheiro
-   - Christian Lucas
-   - Jennifer Monique
+   - Maria Camila de Sá Pinheiro
+   - Christian Lucas Oliveira 
+   - Jhennefer Monique Ferreira Santos
+   - Jouciclécia Almeida dos Santos
    
 Orientador:
 
