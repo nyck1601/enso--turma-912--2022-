@@ -1,12 +1,16 @@
 package app;
+
 import io.jooby.Jooby;
 
-public class appjavaatatakae extends Jooby {
+public class App extends Jooby {
 
-  {  mvc(new Index());
-     mvc(new Divisão()); }
+  {
+    mvc(new Index());
+    mvc(new Adição());
+  }
 
   public static void main(final String[] args) {
     runApp(args, App::new);
   }
+
 }
