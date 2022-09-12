@@ -21,7 +21,7 @@ public class Multiplicacao {
             System.out.println("|1| MKultiplicacao de números inteiros");
             System.out.println("|2| Multiplicacao de números decimais");
             System.out.println("|3| Sair");
-            System.out.println("ATENÇÃO! Digite o número pelo qual ativa a funcionalidade que você deseja na adição.");
+            System.out.println("ATENÇÃO! Digite o número pelo qual ativa a funcionalidade que você deseja na multiplicação.");
             System.out.println("***********************************");
 
             choose = leitura.nextInt();
