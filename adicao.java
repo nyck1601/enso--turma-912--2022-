@@ -5,7 +5,7 @@ public class adicao {
     System.out.println("|ADIÇÃO|");
 
     int n1, n2, ad;
-
+//inicializando estrutura de repetição
     for(;;){
       System.out.println("Informe o primeiro valor:");
       n1= leitura.nextInt();
