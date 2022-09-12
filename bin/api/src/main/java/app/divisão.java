@@ -12,7 +12,7 @@ public class divisão {
 
         //Criando variáveis
         double div1 = Double.parseDouble(div1Str);
-        double div2 = Double.parseDouble(div22Str);
+        double div2 = Double.parseDouble(div2Str);
 
             double result = div1 / div2;
             return result;
