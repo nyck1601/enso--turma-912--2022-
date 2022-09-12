@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class Adicao {
+public class adicao {
 
     public static void main(String[] args) {    
         System.out.println("CALCULADORA");
