@@ -14,7 +14,7 @@ public class Multiplicacao {
         double mult1 = Double.parseDouble(mult1Str);
         double mult2 = Double.parseDouble(mult2Str);
 
-            double result = mult1 / mult2;
+            double result = mult1 * mult2;
             return result;
             
         } catch (NumberFormatException nfe) {
