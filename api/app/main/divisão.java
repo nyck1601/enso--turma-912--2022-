@@ -11,9 +11,9 @@ public class divisão {
         try {
             double op2 = Double.parseDouble(opStr2);
             double op = Double.parseDouble(opStr);
-            var Math = op / op2;
+           var Math = op / op2;
             return Math;
-        } catch (NumberFormatException nfe) {
+         } catch (NumberFormatException nfe) {
             throw new BadRequestException("Operador invalido.");
         }
     }
