@@ -1,20 +1,20 @@
-//#4 Subtração
+//#4 Divisão
 
 //Esta funcionalidade da calculadora tem como objetivo fazer a soma 4 números. 
-//Entre os comandos da adição, pode-se listar:
-//- Adição de números inteiros
-//- Adição de números decimais
+//Entre os comandos da Divisão, pode-se listar:
+//- Divisão de números inteiros
+//- Divisão de números decimais
 
 
 //CODIGO IMPLEMENTADO EM JAVA:
 
 import java.util.Scanner;
 
-public class Subtração {
+public class divisao {
 
     public static void main(String[] args) {    
         System.out.println("CALCULADORA");
-        System.out.println("\nSUBTRAÇÃO\n");
+        System.out.println("\DIVISÃO\n");
         System.out.println("ATENÇÃO!\n Esta operação só calcula 4 números por cálculo.");
         
         Scanner leitura = new Scanner (System.in);
