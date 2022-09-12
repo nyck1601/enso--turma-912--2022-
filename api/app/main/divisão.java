@@ -9,11 +9,11 @@ public class divisão {
     @GET
     public double calcula(@PathParam("op") String opStr, String opStr2) {
         try {
-            double op = Double.parseDouble(opStr2);
+            double op2 = Double.parseDouble(opStr2);
             double op = Double.parseDouble(opStr);
-            return Math.sqrt(op);
-            return Math.sqrt(op2);
-        } catch (NumberFormatException nfe) {
+           var Math = op / op2;
+            return Math;
+         } catch (NumberFormatException nfe) {
             throw new BadRequestException("Operador invalido.");
         }
     }
