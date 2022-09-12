@@ -5,8 +5,8 @@ import io.jooby.Jooby;
 public class App extends Jooby {
 
   {
-
-    mvc(new Index());
+    mvc(new Main());
+    mvc(new Soma());
   }
 
   public static void main(final String[] args) {

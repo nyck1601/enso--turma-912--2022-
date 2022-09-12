@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class UnitTest {
   @Test
   public void welcome() {
-    Index controller = new Index();
+    Main controller = new Main();
     assertEquals("Welcome to Jooby!", controller.sayHi());
   }
 }

@@ -3,10 +3,10 @@ package app;
 import io.jooby.annotations.*;
 
 @Path("/")
-public class Index {
+public class Main {
 
   @GET
   public String sayHi() {
-    return "Welcome to Jooby!";
+    return "Seja bem-vindo ao Jooby!";
   }
 }
