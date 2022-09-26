@@ -22,9 +22,9 @@ public class DivisaoTest {
     }
 
         @Test
-        public void verificararmeubom() {
+        public void VerificaCaso2() {
         Divisao div = new Divisao();
-        double resultado = div.calcula("2","2");
-        assertEquals(1.0, resultado);
+        double resultado = div.calcula("2","4");
+        assertEquals(2.0, resultado);
     }
 }
