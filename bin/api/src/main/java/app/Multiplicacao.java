@@ -3,11 +3,11 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
-@Path("/multiplicacao/{mult1}/{mult2}")
+@Path("/multiplicacao/{mult1Str}/{mult2Str}")
 public class Multiplicacao {
     
     @GET
-    public double calcula(@PathParam("nf") String mult1Str, @PathParam("ns") String mult2Str) {
+    public double calcula(@PathParam String mult1Str, @PathParam String mult2Str) {
         try {
 
         //Criando variáveis
