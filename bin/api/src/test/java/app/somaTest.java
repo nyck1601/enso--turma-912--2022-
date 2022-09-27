@@ -23,8 +23,8 @@ public class somaTest {
 
     
     }
-    
-//by Camila Pinheiro
+
+//by Camila Pinheiro.
 
 
 
