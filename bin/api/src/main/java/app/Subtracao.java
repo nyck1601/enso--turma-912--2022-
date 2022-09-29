@@ -3,11 +3,19 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
+
 @Path("/sub/{sub1Str}/{sub2Str}")
 public class Subtracao {
     
     @GET
     public double calcula(@PathParam String sub1Str, @PathParam String sub2Str) {
+
+@Path("/subtracao/{sub1}/{sub2}")
+public class Subtracao {
+    
+    @GET
+    public double calcula(@PathParam("nf") String sub1Str, @PathParam("ns") String sub2Str) {
+
         try {
 
         //Criando variáveis
@@ -21,4 +29,9 @@ public class Subtracao {
             throw new BadRequestException("Operação inválida, por favor tente novamente.");
         }
     }
+
 }
+
+}
+//Jhennefer Monique
+
