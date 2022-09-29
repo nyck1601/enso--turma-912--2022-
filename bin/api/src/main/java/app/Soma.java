@@ -3,11 +3,11 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
-@Path("/soma/{som1}/{som2}")
+@Path("/soma/{som1Str}/{som2Str}")
 public class Soma {
     
     @GET
-    public double calcula(@PathParam("nf") String som1Str, @PathParam("ns") String som2Str) {
+    public double calcula(@PathParam String som1Str, @PathParam String som2Str) {
         try {
 
         //Criando variáveis
