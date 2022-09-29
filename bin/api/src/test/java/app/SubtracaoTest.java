@@ -21,7 +21,12 @@ public class SubtracaoTest {
         assertEquals(2.0, resultado);
     }
 
-    
+    @Test
+    public void verificarCasoBase() {
+        Soma soma = new Soma();
+        double resultado = soma.calcula("50","20");
+        assertEquals(30, resultado);
+    }
 
     
     }
