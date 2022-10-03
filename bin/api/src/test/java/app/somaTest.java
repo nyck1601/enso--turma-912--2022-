@@ -28,7 +28,6 @@ public class somaTest {
         assertEquals(13.0, resultado);
     }
 }
-//aaaaaa
     
 
 
