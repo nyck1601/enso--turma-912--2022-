@@ -11,7 +11,7 @@ public class Potenciacao {
     public double calcula(@PathParam("nf") String div1Str, @PathParam("ns") String div2Str) {
         try {
 
-        //Criando variáveis
+       
         double div1 = Double.parseDouble(div1Str);
         double div2 = Double.parseDouble(div2Str);
 
