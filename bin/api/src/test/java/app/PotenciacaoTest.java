@@ -28,3 +28,4 @@ public class PotenciacaoTest {
         assertEquals(125.0, resultado);
     }
 }
+//BY ANDINHO
